@@ -7,7 +7,10 @@ function App() {
     <div className="App">
     <h1 data-testid="header">Tic-Tac-Toe</h1>
     <Game />
-   
+         
+
+
+         
     </div>
   );
 }

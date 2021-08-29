@@ -12,6 +12,8 @@ color:"blue"
 };
 
 
+
+
  function Square(props){
 	// const style= props.value ? 'squares' $(props.value) : 'squares'; 
 	//console.log(props.value)
