@@ -1,9 +1,9 @@
 import react, { useState } from "react";
 import { calculateWinner } from "../../Helper";
 import Board from "../board/Board";
-import Popup from '../Popup';
-import 'reactjs-popup/dist/index.css';
-import Moves from '../Moves'
+//import Popup from '../Popup';
+//import 'reactjs-popup/dist/index.css';
+//import Moves from '../Moves'
 //toast.configure();
 
 function Game(){
@@ -42,7 +42,7 @@ function refreshPage() {
         
       </div>
  <button data-testid="restart" onClick={refreshPage}>Restart</button>
- <Popup />
+ {/* <Popup /> */}
     </>
     )
 }
