@@ -15,5 +15,6 @@ node js must be installed
 1. Open files in your text editor
 2. Open terminal
 3. Run those commands : 
--npm i
--npm run start 
+-`npm i`
+-navigate to localhost:3000 or use `npm run start` 
+
